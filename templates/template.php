@@ -6,8 +6,6 @@
 </head>
 <body>
 <?php
-#Write the traditional greeting.
-echo '<h1>Hello World!</h1>';
 ?>
 </body>
 </html>
